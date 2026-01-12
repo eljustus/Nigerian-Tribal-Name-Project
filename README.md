@@ -8,9 +8,8 @@ A curated collection of beautiful names from Nigerian ethnic groups (Yoruba, Igb
 - *Current status*: Growing database with 1000+ entries (expanding)  
 - *License*: Not open-source (view-only teasers)
 
-## Preview / Access the Dataset
-Explore sample names, suggest new ones, or collaborate?
-
+## Preview 
+Would be provided on demand. 
 *Summary:*
 Click to reveal Google Sheet & Contribution Link (protected access): https://www.appsheet.com/start/0927d2dc-ec61-4442-b502-a79684339738
 
@@ -25,6 +24,7 @@ Here is the main access point:
 *How it works*:
 - The sheet shows preview columns(Entry ID, Timestamp, Tribal name,Geo. region, Name Meaning, Name Gender, Residence of contributor.
 - Use the form to contribute names — all valid suggestions will be reviewed and added (with credit if you want!)
+- Comment and Feedback icons provided.
 - Full premium/complete dataset will be available via commercial channels later.
 
 Made with ❤️ for Nigerian culture and Education  
