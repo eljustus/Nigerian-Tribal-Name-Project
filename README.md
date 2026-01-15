@@ -22,7 +22,9 @@ Here is the main access point:
   [Submit New Name Suggestion]     (https://www.appsheet.com/start/0927d2dc-ec61-4442-b502-a79684339738)
 
 *How it works*:
-- The sheet shows preview columns(Entry ID, Timestamp, Tribal name,Geo. region, Name Meaning, Name Gender, Residence of contributor.
+- The sheet shows preview columns(Entry ID, Timestamp, Tribal name,Geo. region, Name Meaning, Name Gender, Residence of the contributor (optional).
+- Only tribal names entered by contributors are visible to contributors.
+- Comments on wrongly spelled, wrong meaning, or wrongly allocated tribe or location are accepted.
 - Use the form to contribute names — all valid suggestions will be reviewed and added (with credit if you want!)
 - Comment and Feedback icons provided.
 - Full premium/complete dataset will be available via commercial channels later.
